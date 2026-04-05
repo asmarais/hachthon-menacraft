@@ -1,0 +1,58 @@
+# ==============================================================================
+# MenaCraft Backend — Complete Dependencies
+# ==============================================================================
+
+# Core API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+
+# Database & Storage
+supabase
+httpx
+
+# Network & Scraping
+requests
+beautifulsoup4
+python-whois
+validators
+google-search-results
+tldextract
+
+# AI & NLP Forensics
+groq
+transformers
+torch
+torchvision
+realitydefender
+sentence-transformers
+scikit-learn
+langdetect
+spacy
+openai-whisper
+clip @ git+https://github.com/openai/CLIP.git
+
+# Image Forensics
+pillow
+opencv-python
+numpy
+ImageHash
+piexif
+
+# Video Forensics
+yt-dlp
+av
+
+# Document Forensics
+pypdfium2
+python-docx
+pypdf
+
+# Config & Serialization
+pyyaml
+
+# Training (optional — only needed for model training)
+# tqdm
+# wandb
