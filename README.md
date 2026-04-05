@@ -1,1 +1,3 @@
-cd d:\Bureau\menacraft\backend ; d:\Bureau\menacraft\backend\.venv\Scripts\python.exe -m pip install -r requirements.txt
+Link to canva: 
+
+https://www.canva.com/design/DAHF9p33i2o/JHSKHvvsX5PL2yXaDyve4A/edit
