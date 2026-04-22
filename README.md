@@ -1,6 +1,11 @@
+
 #  The Vision - Authenticity Detection Platform
 
 A comprehensive media authenticity verification system that leverages advanced AI/ML techniques to detect deepfakes, verify document authenticity, and analyze content credibility across multiple media types.
+
+
+<img width="1916" height="900" alt="Capture d&#39;écran 2026-04-17 190258" src="https://github.com/user-attachments/assets/5ed3c9fd-6222-4428-a227-c377e3e96aad" />
+<img width="1259" height="1045" alt="Capture d&#39;écran 2026-04-17 190349" src="https://github.com/user-attachments/assets/2fa52cf0-4de8-4d73-ac14-693961e8c488" />
 
 ---
 
